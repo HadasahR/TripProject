@@ -1,0 +1,34 @@
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\bin\Debug\net7.0\BLL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\bin\Debug\net7.0\BLL.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\bin\Debug\net7.0\DAL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\bin\Debug\net7.0\DTO.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\bin\Debug\net7.0\DAL.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\bin\Debug\net7.0\DTO.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\BLL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\BLL.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\ref\BLL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\bin\Debug\net7.0\BLL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\bin\Debug\net7.0\BLL.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\bin\Debug\net7.0\DAL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\bin\Debug\net7.0\DTO.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\bin\Debug\net7.0\DAL.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\bin\Debug\net7.0\DTO.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\BLL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\BLL.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\BLL\obj\Debug\net7.0\BLL.csproj.Up2Date

@@ -1,0 +1,114 @@
+<div id="a">
+<div class="all">
+ 
+<!-- <h1>login</h1>
+ <form (onSubmit)="checkUser()" #formP="ngForm">
+<div class="mb-3 mt-3">
+<label for="custEmail" class="form-label">custEmail:</label><br></br>
+<input type="email" class="form-control" id="custEmail" placeholder="input email address"  [(ngModel)]="currentCustomer.custEmail" #inpName="ngModel">
+<label for="custPassword" class="form-label">custPassword:</label><br></br>
+<input type="text" class="form-control" id="custPassword" placeholder="input your password"  [(ngModel)]="currentCustomer.custPassword" #inpName="ngModel">
+</div> 
+<button type="submit"  [disabled]="!formP.valid" >login</button>
+
+</form> -->
+<!-- <div class="example-container">
+   
+    </div>
+</div> -->
+<form class="example-form" (onSubmit)="checkUser()" #formP="ngForm">
+  <h1>Login</h1>
+  <p>
+    <!-- <mat-form-field class="example-full-width">
+      <mat-label>Enter your password</mat-label>
+      <input matInput  [(ngModel)]="password">
+       </mat-form-field> -->
+       <!-- <mat-form-field class="example-full-width"> 
+        <mat-label>Enter your email</mat-label>
+        <input matInput   [(ngModel)]="currentCustomer.custPassword" required >
+      </mat-form-field> -->
+
+      <mat-form-field class="example-full-width"> 
+        <mat-label>Enter your number</mat-label>
+        <input matInput [type]="hide ? 'password' : 'text'"   [formControl]="password"  [(ngModel)]="currentCustomer.custPassword" required >
+      <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+          <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+        </button>
+      </mat-form-field>
+
+    <mat-form-field class="example-full-width"> 
+      <mat-label>Enter your email</mat-label>
+      <input matInput placeholder="pat@example.com" [formControl]="email"  [(ngModel)]="currentCustomer.custEmail" required >
+    </mat-form-field>
+     
+  </p>
+  <!--   <button class="b" mat-flat-button color="primary" type="submit"(click)="saveUser()">הרשם</button>
+ -->
+  <button mat-flat-button class="b"  type="submit" (click)="checkUser()">connect</button>
+</form>
+
+<!-- 
+  ///////////////////////////////
+   <mat-form-field class="example-full-width">
+        <mat-label>Enter your password</mat-label>
+        <input matInput [type]="hide ? 'password' : 'text'" [(ngModel)]="currentCustomer.custPassword">
+     
+ -->
+
+
+   <!-- <mat-form-field class="example-full-width">
+      <mat-label>Company (disabled)</mat-label>
+      <input matInput disabled value="Google">
+    </mat-form-field>
+   -->
+    <!-- <table class="example-full-width" cellspacing="0"><tr>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>First name</mat-label>
+        <input matInput>
+      </mat-form-field></td>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>Long Last Name That Will Be Truncated</mat-label>
+        <input matInput>
+      </mat-form-field></td>
+    </tr></table>
+   -->
+    <!-- <p> 
+      <mat-form-field class="example-full-width">
+        <mat-label>Address</mat-label>
+        <textarea matInput placeholder="Ex. 100 Main St">1600 Amphitheatre Pkwy</textarea>
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <mat-label>Address 2</mat-label>
+        <textarea matInput></textarea>
+      </mat-form-field>
+    </p> -->
+    <!-- <table class="example-full-width" cellspacing="0"><tr>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>City</mat-label>
+        <input matInput placeholder="Ex. San Francisco">
+      </mat-form-field></td>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>State</mat-label>
+        <input matInput placeholder="Ex. California">
+      </mat-form-field></td>
+      <td><mat-form-field class="example-full-width">
+        <mat-label>Postal Code</mat-label>
+        <input matInput #postalCode maxlength="5" placeholder="Ex. 94105" value="94043">
+        <mat-hint align="end">{{postalCode.value.length}} / 5</mat-hint>
+      </mat-form-field></td>
+    </tr></table>
+    <td></td>
+    <mat-form-field class="example-full-width">
+        <mat-label>Select</mat-label>
+  <mat-select>
+    <mat-option value="one">First option</mat-option>
+    <mat-option value="two">Second option</mat-option>
+  </mat-select>
+    </mat-form-field> -->
+    <!-- <mat-form-field>
+      <mat-label>Phone number</mat-label>
+      <example-tel-input formControlName="tel" required></example-tel-input>
+      <mat-icon matSuffix>phone</mat-icon>
+      <mat-hint>Include area code</mat-hint>
+    </mat-form-field> -->
+</div>

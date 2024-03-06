@@ -1,0 +1,76 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  #a{
+    background:url('../../../assets/pic/allB.jpg'); 
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin-top: -310px;
+  width: 1550px;
+  height: 900px;
+  }
+  td {
+    padding-right: 8px;
+  }
+  /* ///
+   */
+   
+.all{
+  height: auto;
+  width: 37rem;
+  padding:1rem;
+  padding-top: 4rem;
+  /* border: 1px solid black; */
+  margin-left: 35rem;
+  margin-right: 58rem;
+  margin-top:6rem;
+}
+.b{
+  margin-right: 13rem;
+  border: 1px solid black;
+  font-family: Bradley Hand ITC;
+  font-size:large;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-align: center;
+  background-color:rgba(255, 255, 255,0.5);
+
+  }
+input,
+#myBtnCode{
+  width: 100%;
+  /* padding: 8px 8px;
+  margin: 8px 0; */
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+
+}
+
+.example-form{
+  margin-top: 24rem;
+}
+
+h1{
+  font-size:xx-large;
+  font-family: Bradley Hand ITC;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-align: center;
+}
+@media screen and (max-width: 300px) {
+  span.myBtnCode {
+    display: block;
+    float: none;
+  }
+
+  
+}
+

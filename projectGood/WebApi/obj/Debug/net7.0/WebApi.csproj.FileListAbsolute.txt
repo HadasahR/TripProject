@@ -1,0 +1,158 @@
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\WebApi.exe
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\WebApi.deps.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\WebApi.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\WebApi.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\AutoMapper.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\BLL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\DAL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\DTO.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\BLL.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\DAL.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\DTO.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\bin\Debug\net7.0\appsettings.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\appsettings.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\BLL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\DAL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\DTO.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\BLL.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\DAL.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\bin\Debug\net7.0\DTO.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\WebApi\obj\Debug\net7.0\WebApi.csproj.Up2Date

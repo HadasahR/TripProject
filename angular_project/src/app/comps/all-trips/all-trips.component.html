@@ -1,0 +1,33 @@
+<body class="page-container">
+  <mat-form-field appearance="fill">
+    <mat-label>בחר סוג</mat-label>
+    <mat-select [(ngModel)]="selectedType" (selectionChange)="filter(selectedType)">
+      <mat-option value="0" disabled selected hidden>בחר סוג</mat-option>
+      <mat-option *ngFor="let a of allTypes" [value]="a.typeId">{{a.typeName}}</mat-option>
+    </mat-select>
+  </mat-form-field>
+  <div class="all-cards-container page-container">
+  
+  <mat-card class="example-card" *ngFor="let item of filterTrips">
+      <mat-card-header>
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-title>{{item.destination}}</mat-card-title>
+         <mat-card-subtitle>{{item.typeName}}</mat-card-subtitle> 
+      </mat-card-header>
+      <img mat-card-image [src]="'../../../assets/pic/' + item.img + '.jpg'" alt="Photo of a Shiba Inu">
+  
+       <mat-card-content>
+        <p> 
+         <!-- {{item.price}}₪ -->
+         </p>
+        <p>
+          date:{{item.date|date}}
+        </p> 
+       </mat-card-content>
+      <mat-card-actions>
+        <button *ngIf="userService.currentUser.custFname!=null" mat-button (click)="deatils(item.tripId)">More Details..</button>
+         <button mat-button>like</button> 
+      </mat-card-actions>
+    </mat-card> 
+  </div>
+</body>

@@ -1,0 +1,9 @@
+<body class="page-container">
+<h1>All Users!</h1>
+<mat-list role="list">
+        <mat-list-item *ngFor="let user of AllUsers">
+            <span matListItemTitle class="matList">{{user.custFname}}</span>
+            <span matListItemLine class="matList">{{user.custPhone}}</span>
+            <span matListItemLine class="matList">{{user.custEmail}}</span>
+          </mat-list-item>
+  </mat-list></body>

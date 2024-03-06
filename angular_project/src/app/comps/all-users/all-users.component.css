@@ -1,0 +1,11 @@
+span,h1{
+    text-align: center;
+}
+.page-container {
+    background-image: url('../../../assets/pic/allTripsjpg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+  }
+  

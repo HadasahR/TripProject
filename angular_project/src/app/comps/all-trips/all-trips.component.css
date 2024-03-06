@@ -1,0 +1,74 @@
+.page-container {
+  background-image: url('../../../assets/pic/allTripsjpg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.all-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-right: 100px;
+}
+
+.all-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.example-card {
+  width: 300px;
+  margin: 10px;
+  background: rgba(255, 255, 255,0.5); /* שקיפות כאן - ניתן לשנות את הערכים */
+  padding: 10px; 
+}
+
+.example-card img {
+  max-width: 100%;
+  
+}
+
+.example-card mat-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.example-card mat-card-actions {
+  display: flex;
+  justify-content: center;
+}
+
+.example-full-width {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.example-card p {
+  margin: 10px 0;
+}
+
+.b, .c {
+  margin: 0 10px;
+}
+
+.openErrorPlaces, .openErrorOrder, .openSuccesOrder {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
+/* סגנונות עיצוב עבור ה-select עצמו */
+mat-select {
+  background-color: transparent; /* שקיפות */
+  border: 1px solid #ccc; /* קווים סביב ה-select */
+  border-radius: 4px; /* פינות מעוגלות */
+  color: #333;
+  padding: 8px; /* רווח פנימי */
+  width: 200px; /* רוחב */
+  font-size: 16px; /* גודל גופן */
+}
+.mat-option {
+  background-color: transparent; /* שקיפות */
+  color: #333;
+}

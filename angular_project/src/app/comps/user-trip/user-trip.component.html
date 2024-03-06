@@ -1,0 +1,26 @@
+
+<mat-label>filter by date:</mat-label>
+<mat-select [(ngModel)]="selectedType" (selectionChange)="filterByDate(selectedType)">
+    <mat-option value="0" disabled selected hidden>סנן לפי תאריכים</mat-option>
+    <mat-option [value]="0">Past trips</mat-option>
+    <mat-option [value]="1">Future trips</mat-option>
+</mat-select>
+<div class="all-cards-container page-container">
+<mat-card class="example-card" *ngFor="let item of filterTrips">
+    <mat-card-header>
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-title>{{item.destination}}</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <p>
+          Places:  {{item.countPlaces}} 
+        </p>
+        <p>
+           Date: {{item.ordDate|date}}
+        </p>
+    </mat-card-content>
+    <mat-card-actions>
+        <button mat-flat-button class="b" mat-button (click)="deleteOrder(item.ordId!)">🗑️</button>
+    </mat-card-actions>
+</mat-card>
+</div>

@@ -1,0 +1,28 @@
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\bin\Debug\net7.0\DAL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\bin\Debug\net7.0\DAL.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\DAL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\DAL.pdb
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\the user\Documents\הנדסאים\שנה ב\פרויקט גמר אנגולר\projectGood\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\bin\Debug\net7.0\DAL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\bin\Debug\net7.0\DAL.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\DAL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\DAL.pdb
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\הנדסאים\שנה ב\TripsProject\projectGood\DAL\obj\Debug\net7.0\ref\DAL.dll

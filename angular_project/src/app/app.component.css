@@ -1,0 +1,38 @@
+nav{
+  background-color:transparent;
+  background:url('../assets/pic/backgroundall.jpg'); 
+
+}
+.container-fluid{
+  background-color:transparent;
+  background:url('../assets/pic/backgroundall.jpg'); 
+
+}
+.nav {
+    text-align: center; 
+    display: flex;
+    float: right;
+    margin-right: 100px;
+    justify-content: center;
+    background-color:transparent;
+  }
+  h1{
+    font-family:Guttman Yad;
+  }
+  .nav li {
+    display:inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+  .navLink {
+    font-size:xx-large;
+    font-family: Bradley Hand ITC;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+a{
+ font-family: EFT_Afarsek Light;
+ font-size: 50px;
+ color: rgb(0, 0, 0);
+}
+

@@ -1,0 +1,32 @@
+<div id="a">
+  <div class="example-card">
+    <mat-card id="card">
+      <mat-card-header>
+        <div mat-card-avatar class="example-header-image"></div>
+        <mat-card-title style="font-size: xx-large;">{{trip.destination}}</mat-card-title>
+      </mat-card-header>
+      <img mat-card-image [src]="'../../../assets/pic/' + trip.img + '.jpg'" alt="Photo of a Shiba Inu">
+      <mat-card-content>
+        <p>
+          Price: {{trip.price}}₪
+        </p>
+        <p>Date:{{trip.date|date}}</p>
+        <p>empty-places:{{trip.emptyPlaces}}</p>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-flat-button class="b" (click)="openOrder()">order tickets</button>
+      </mat-card-actions>
+      <div *ngIf="open">
+        <form (ngSubmit)="order()">
+          <mat-form-field class="example-full-width">
+            <mat-label>input count places to order</mat-label>
+            <input matInput [(ngModel)]="numOfPlaces" name="numOfPlaces" min="0" max="trip.emptyPlaces">
+          </mat-form-field>
+          <br>
+          <button mat-flat-button class="b" type="submit" (click)=" order()"> order>>>> </button>
+        </form>
+      </div>
+      <p *ngIf="openSuccesOrder">ההזמנה נקלטה בהצלחה</p>
+    </mat-card>
+  </div>
+</div>

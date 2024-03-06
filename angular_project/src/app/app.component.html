@@ -1,0 +1,22 @@
+    <div class="container-fluid">
+      <ul class="nav navbar-nav">
+        <ul class="nav">
+          <li><a>{{UserS.currentUser.custFname}}</a></li>
+          <li><a class="navLink" routerLink="./AllTrips">all-Trips</a></li>
+          <br>
+          <li><a class="navLink" routerLink="./Register">Register</a></li>
+          <br>
+          <li><a class="navLink" routerLink="./Login">Login</a></li>
+          <br>
+          <li><a class="navLink" routerLink="./HomePage">homepage</a></li>
+          <br>
+          <li *ngIf="UserS.currentUser.custFname!=null&&!UserS.isManager"><a class="navLink" routerLink="./EditUser">My
+              orders</a></li>
+          <br>
+          <li *ngIf="UserS.isManager">
+            <a class="navLink" routerLink="./AllUsers">All users</a>
+          </li>
+        </ul>
+      </ul>
+    </div>
+  <router-outlet></router-outlet>
